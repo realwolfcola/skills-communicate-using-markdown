@@ -3,3 +3,6 @@
 ##### How small is this?
 ![Image of Step Brothers](https://images6.alphacoders.com/649/thumb-1920-649500.jpg)
 
+``` javascript
+var myVar = "Hello, world!";
+```
