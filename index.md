@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Is this going to work this time?
+- [ ] Probably not
+- [X] Maybe worth a shot though.
+- [ ] Okay no it didn't work
